@@ -1,6 +1,8 @@
 sb-signing-utils
 ================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0f6ca49c9f064f80870449b9271ed55c)](https://app.codacy.com/app/hellerda/sb-signing-utils?utm_source=github.com&utm_medium=referral&utm_content=hellerda/sb-signing-utils&utm_campaign=Badge_Grade_Settings)
+
 A simple utility for signing firmware components for OpenPOWER Secure
 and Trusted Boot.
 
